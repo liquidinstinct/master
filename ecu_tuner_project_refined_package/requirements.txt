@@ -1,8 +1,0 @@
-Flask
-numpy
-pyserial
-pyttsx3
-openai
-python-dotenv
-requests
-SpeechRecognition
