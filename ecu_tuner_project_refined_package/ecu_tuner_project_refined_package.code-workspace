@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ecu_tuner_project_refined_package",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.extraPaths": [
+			"./ecu_handlers"
+		]
+	}
+}
